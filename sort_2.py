@@ -1,6 +1,10 @@
 def sort_2(arr):
     """Quicksort"""
+<<<<<<< HEAD
     'Hallo'
+=======
+    "Hello World"
+>>>>>>> sort_2
     if len(arr) <= 1:
         return arr
     
