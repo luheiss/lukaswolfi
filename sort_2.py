@@ -1,5 +1,6 @@
 def sort_2(arr):
     """Quicksort"""
+    'Hallo'
     if len(arr) <= 1:
         return arr
     
@@ -9,5 +10,4 @@ def sort_2(arr):
     right = [x for x in arr if x > pivot]
     
     return sort_2(left) + middle + sort_2(right)
-
 
