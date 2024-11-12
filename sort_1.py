@@ -1,6 +1,7 @@
 def sort_1(array):
     """bubble_sort"""
     n = len(array)
+    #Hallo
     # loop to access each array element
     for i in range(len(array)):
 
