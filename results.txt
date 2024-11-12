@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-5L4M0BN
+Date of Test: 2024-11-12 16:25:02
+Bubble Sort Time: 6.658490 seconds
+Quick Sort Time: 0.012168 seconds
+
