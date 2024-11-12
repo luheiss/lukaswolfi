@@ -1,0 +1,10 @@
+Computer Name: PC-Lukas
+Date of Test: 2024-11-12 16:24:11
+Bubble Sort Time: 5.763724 seconds
+Quick Sort Time: 0.012789 seconds
+
+Computer Name: PC-Lukas
+Date of Test: 2024-11-12 16:27:52
+Bubble Sort Time: 6.371796 seconds
+Quick Sort Time: 0.015000 seconds
+
