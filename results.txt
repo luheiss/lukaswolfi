@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Computer Name: PC-Lukas
 Date of Test: 2024-11-12 16:24:11
 Bubble Sort Time: 5.763724 seconds
@@ -7,4 +8,10 @@ Computer Name: PC-Lukas
 Date of Test: 2024-11-12 16:27:52
 Bubble Sort Time: 6.371796 seconds
 Quick Sort Time: 0.015000 seconds
+=======
+Computer Name: DESKTOP-5L4M0BN
+Date of Test: 2024-11-12 16:25:02
+Bubble Sort Time: 6.658490 seconds
+Quick Sort Time: 0.012168 seconds
+>>>>>>> c54fbaf3868427fe7ab496dcdc6c340acb93967d
 
